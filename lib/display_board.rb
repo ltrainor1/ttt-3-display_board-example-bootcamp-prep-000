@@ -6,6 +6,6 @@ def display_board
   puts line
   puts spaces
   puts line
-  prints spaces
+  puts spaces
   puts "A Tic Tac Toe Board"
 end
