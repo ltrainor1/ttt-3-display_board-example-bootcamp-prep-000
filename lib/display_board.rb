@@ -8,3 +8,4 @@ def display_board
   prints line
   prints spaces
   puts "A Tic Tac Toe Board"
+end
