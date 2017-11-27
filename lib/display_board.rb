@@ -2,9 +2,9 @@
 def display_board
   spaces = "   |   |   "
   line = -----------
-  prints spaces
-  prints line
-  prints spaces
+  puts spaces
+  puts line
+  puts spaces
   prints line
   prints spaces
   puts "A Tic Tac Toe Board"
